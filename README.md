@@ -46,7 +46,7 @@ techniques and a Machine Learning classification algorithm.
 
 Clone the repository:
 
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/trupti-dodiya/SMS-Spam-Detection.git
 
 Move into the project folder:
 
